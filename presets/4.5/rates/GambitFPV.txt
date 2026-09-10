@@ -5,8 +5,8 @@
 #$ KEYWORDS: GambitFPV, freestyle
 #$ AUTHOR: GambitFPV
 
-#$ DESCRIPTION: Freestyle rates with 907 deg/sec for roll/pitch and 800 deg/sec for yaw. Relatively smooth around the sticks middle.
-#$ DESCRIPTION: I am GambitFPV and you gonna' learn something today!
+#$ DESCRIPTION: Freestyle rates with 907 deg/sec for roll/pitch and 800 deg/sec for yaw. 
+#$ DESCRIPTION: Relatively smooth around the sticks middle.
 
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/94
 
