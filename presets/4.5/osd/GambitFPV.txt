@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS:GambitFPV, freestyle, HD, HDOSD, OSD
+#$ KEYWORDS: GambitFPV, freestyle, HD, HDOSD, OSD
 #$ AUTHOR: GambitFPV 
 
 #$ DESCRIPTION: GambitFPV HD OSD freestyle settings
