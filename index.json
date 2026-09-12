@@ -9962,7 +9962,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/GambitFPV.txt",
-      "hash": "7ed0fe61099a3741bc799248f9172baf09bad5230781e38d8393208e4a398861",
+      "hash": "88ef212d38ad946c31a818b27e9032c0b61209773c7e754547163dc4f04b7807",
       "title": "GambitFPV HD OSD",
       "firmware_version": [
         "4.5"
@@ -10215,7 +10215,7 @@
     },
     {
       "fullPath": "presets/4.5/rates/GambitFPV.txt",
-      "hash": "bb148a94ef6f07c465d5446eb97e063486dd6539f0425bd308d532273f221d22",
+      "hash": "a685feb20573175167e8efc8cf27e08e4242f3695ae9224a8a93b747e19ac63f",
       "title": "GambitFPV rates",
       "firmware_version": [
         "4.5"
