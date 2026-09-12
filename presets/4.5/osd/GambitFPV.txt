@@ -23,16 +23,19 @@
 
 #$ INCLUDE: presets/4.4/osd/defaults.txt
 
+set osd_warn_bitmask = 8191
 set osd_vbat_pos = 2658
 set osd_tim_1_pos = 2647
 set osd_tim_2_pos = 2679
 set osd_flymode_pos = 2050
 set osd_crosshairs_pos = 6525
-set osd_craft_name_pos = 2072
-set osd_pilot_name_pos = 2059
+set osd_craft_name_pos = 3092
+set osd_pilot_name_pos = 3077
 set osd_warnings_pos = 14776
 set osd_avg_cell_voltage_pos = 2626
 set osd_disarmed_pos = 6490
-set osd_rate_profile_name_pos = 3074
+set osd_rate_profile_name_pos = 2068
+set osd_pid_profile_name_pos = 2058
+set osd_displayport_device = AUTO
 set osd_canvas_width = 60
 set osd_canvas_height = 22
